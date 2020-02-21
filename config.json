@@ -1,0 +1,19 @@
+{
+    "localConfig": {
+        "pathToFiles": "",
+        "fileList": [
+            {
+                "pathToFile": "pastaLocal",
+                "fileName" : "arquivo.txt",
+                "isBinary": false,
+                "pathToStoreInFtp": "pastaNoFtp"
+            }            
+        ]
+    },
+    "ftpConfig": {
+        "host":"",
+        "username":"",
+        "password":"",
+        "port":21
+    }
+}
